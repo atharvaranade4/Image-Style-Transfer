@@ -10,4 +10,4 @@ A part of an independent project to learn and practice using Pytorch.
 ![alt text](Style_Image.jpg)
 
 ### Output Image
-![alt text](Output.jpg)
+![alt text](Output.JPG)
