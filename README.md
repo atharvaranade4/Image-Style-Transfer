@@ -9,5 +9,5 @@ A part of an independent project to learn and practice using Pytorch.
 ### Style Image
 ![alt text](Style_Image.jpg)
 
-### Output Image
+## Output Image
 ![alt text](Output_Image.JPG)
